@@ -7,12 +7,12 @@ It is designed using object-oriented programming (OOP) concepts like classes, ob
 ---
 
 ##  Features
-- ✅ User login using User ID and PIN  
-- ✅ Withdraw money with balance check  
-- ✅ Deposit money to your account  
-- ✅ Transfer money to another registered user  
-- ✅ View transaction history  
-- ✅ Safe exit option  
+-  User login using User ID and PIN  
+-  Withdraw money with balance check  
+-  Deposit money to your account  
+-  Transfer money to another registered user  
+-  View transaction history  
+-  Safe exit option  
 
 ---
 
